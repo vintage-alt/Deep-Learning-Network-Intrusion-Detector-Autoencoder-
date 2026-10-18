@@ -33,3 +33,8 @@ This demonstrates the practical reality of deploying AI in cybersecurity: minimi
 2. Install dependencies: `pip install torch pandas scikit-learn joblib`
 3. Train the model: `python train_autoencoder.py`
 4. Evaluate thresholds: `python evaluate_anomaly.py`
+
+<img width="928" height="500" alt="image" src="https://github.com/user-attachments/assets/afa5a2cd-87cb-49ce-bf2e-1a9b4f7cfac1" />
+<img width="629" height="632" alt="image" src="https://github.com/user-attachments/assets/ece33be8-2807-4514-96ee-485de3aff8c9" />
+<img width="754" height="198" alt="image" src="https://github.com/user-attachments/assets/2a996ed3-7a5e-472d-a8f5-18c5b45e5184" />
+
